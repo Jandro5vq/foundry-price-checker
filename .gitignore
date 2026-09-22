@@ -1,0 +1,10 @@
+# Rust
+/target
+
+# Generated price exports
+model_prices_*.csv
+azure_model_prices.csv
+
+# Python (legacy prototype)
+__pycache__/
+.venv
